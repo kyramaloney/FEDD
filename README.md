@@ -36,16 +36,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
- <a> https://mensenzeggendingen.nl/ </a>
+ <a>https://mensenzeggendingen.nl/</a>
 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/mensenzeggendingen1.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="./images/mensenzeggendingen1.jpg" width="375px" alt="homepage met een overzicht van verschillende poezie stukken en waar die worden gegeven.">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/smallscreen.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="./images/smallscreen.jpg" width="375px" alt="een overzicht van wat de bedenkers van mensen zeggen dingen willen bereiken.">
  
 </details>
 
