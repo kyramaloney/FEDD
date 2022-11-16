@@ -61,9 +61,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
-  <img src="images/screenreader1.png" width="375px" alt="screeneader">
 
-  <img src="images/screenreader2.png" width="375px" alt="screeneader2">
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -81,10 +79,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  
-  <img src="images/kleurenblind.jpg" width="375px" alt="screeneader">
 
-  <img src="images/inzoem.jpg" width="375px" alt="screeneader">
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
