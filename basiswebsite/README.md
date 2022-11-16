@@ -41,11 +41,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="images/mensenzeggendingen1.png" width="375px" alt="homepage met een overzicht van verschillende poezie stukken en waar die worden gegeven.">
+  <img src=".images/mensenzeggendingen1.png" width="375px" alt="homepage met een overzicht van verschillende poezie stukken en waar die worden gegeven.">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="images/smallscreen.png" width="375px" alt="een overzicht van wat de bedenkers van mensen zeggen dingen willen bereiken.">
+  <img src=".images/smallscreen.png" width="375px" alt="een overzicht van wat de bedenkers van mensen zeggen dingen willen bereiken.">
  
 </details>
 
